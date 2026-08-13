@@ -1,66 +1,105 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Jahnavi%20Sai!&fontSize=50&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Undergrad%20@%20Amrita%20School%20of%20Engineering&descAlignY=55&descAlign=62&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=%20Jahnavi%20Sai&fontSize=60&fontAlignY=40&animation=fadeIn" width="100%"/>
+  <p><i>Building intelligent systems at the intersection of AI, Systems, and IoT</i></p>
 </div>
-
-<p align="center">
-  <a href="https://github.com/jahnavi-1019">
-    <img src="https://komarev.com/ghpvc/?username=jahnavi-1019&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
 
 ---
 
-<table align="center" style="border: none;">
-  <tr>
-    <td width="100%">
-      <h3>👩‍💻 About Me</h3>
-      <p>I am a second-year B.Tech undergraduate passionate about building data-driven ML solutions and diving deep into AI research. When I'm not coding, you can find me exploring the cosmos as an Executive Member of the Vyom Astrophysics Club!</p>
-      <ul>
-        <li>🌟 <strong>Meta PyTorch OpenEnv Hackathon Finalist</strong> (Top 800/31,000+ teams)</li>
-        <li>🔭 Currently working on <strong>Agentic AI, Linux Systems, and IoT</strong>.</li>
-        <li>📝 I regularly write and publish <strong>Research Papers</strong> on IEEE and other platforms.</li>
-        <li>📫 Reach out to me at: <strong><a href="mailto:jsm55174@gmail.com">jsm55174@gmail.com</a></strong></li>
-        <li>🔗 Let's connect on <strong><a href="https://linkedin.com/in/jahnavi-sai-mutyala">LinkedIn</a></strong></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin: 20px 0;">
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px 25px; border-radius: 8px; color: white; font-weight: bold;">
+    🏆 Meta PyTorch Hackathon Finalist
+  </div>
+  <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 15px 25px; border-radius: 8px; color: white; font-weight: bold;">
+    📝 Published Researcher (IEEE)
+  </div>
+  <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 15px 25px; border-radius: 8px; color: white; font-weight: bold;">
+    🪐 Astronomy Enthusiast
+  </div>
+</div>
+
+---
+
+### ⚡ About
+
+Third-year B.Tech student passionate about **AI research**, **systems programming**, and **real-world problem solving**. I build data-driven solutions with a focus on clean architecture and performance optimization. When not coding, exploring the cosmos with the Vyom Astrophysics Club.
+
+**Let's connect:** [Email](mailto:jsm55174@gmail.com) • [LinkedIn](https://linkedin.com/in/jahnavi-sai-mutyala) • [GitHub](https://github.com/jahnavi-1019)
 
 ---
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-  <p><b>Languages & Core</b></p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,matlab,sql,linux,c,cpp" />
-  <br><br>
-  <p><b>AI, ML & Frameworks</b></p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv" />
-  <br><br>
-  <p><b>Tools & Platforms</b></p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,raspberrypi,firebase" />
+<div style="margin: 30px 0;">
+  <p style="text-align: center; font-weight: bold; margin-bottom: 15px; color: #667eea;">→ Languages & Foundations</p>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,matlab,linux" />
+  </div>
+</div>
+
+<div style="margin: 30px 0;">
+  <p style="text-align: center; font-weight: bold; margin-bottom: 15px; color: #764ba2;">→ AI / ML / Deep Learning</p>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv,py" />
+  </div>
+</div>
+
+<div style="margin: 30px 0;">
+  <p style="text-align: center; font-weight: bold; margin-bottom: 15px; color: #f5576c;">→ Systems / Infrastructure</p>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,raspberrypi,firebase" />
+  </div>
 </div>
 
 ---
 
 ### 📚 Research & Publications
 
-> **Real-Time Signal Quality Monitoring & Interference Detection using RTL-SDR**
-> *3rd International Conference on Networking and Communications (ICNWC 2026), IEEE* (Apr 2026)
+<div style="display: grid; gap: 15px; margin: 20px 0;">
 
-> **ML Enhanced Dual Axis Solar Tracker for Optimized Energy Efficiency**
-> *5th International Conference (ICTMIM-2025)* (Apr 2025)
+<div style="border-top: 3px solid #667eea; padding: 20px; background: rgba(102, 126, 234, 0.05); border-radius: 5px;">
+  <h4 style="margin: 0 0 8px 0; color: #667eea;">Real-Time Signal Quality Monitoring & Interference Detection using RTL-SDR</h4>
+  <p style="margin: 8px 0; color: #555;">3rd International Conference on Networking and Communications (ICNWC 2026) - IEEE</p>
+  <p style="margin: 0; font-size: 0.85em; color: #999;">📅 April 2026</p>
+</div>
+
+<div style="border-top: 3px solid #764ba2; padding: 20px; background: rgba(118, 75, 162, 0.05); border-radius: 5px;">
+  <h4 style="margin: 0 0 8px 0; color: #764ba2;">ML Enhanced Dual Axis Solar Tracker for Optimized Energy Efficiency</h4>
+  <p style="margin: 8px 0; color: #555;">5th International Conference (ICTMIM-2025)</p>
+  <p style="margin: 0; font-size: 0.85em; color: #999;">📅 April 2025</p>
+</div>
+
+</div>
 
 ---
 
-### 🚀 Highlighted Projects
+### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Ferox File Explorer](https://github.com/jahnavi-1019/ferox-file-explorer)** | A fast, lightweight, and highly efficient file explorer built for Linux. Features deep OS integration and optimized memory management. | `C/C++` `Linux` `Systems` |
-| **[Agentic Speech Enhancement](https://github.com/jahnavi-1019/agentic-speech-enhancement)** | Universal speech enhancement and noise reduction system utilizing Deep Learning and NLP techniques. | `Python` `TensorFlow` `NLP` |
-| **[IoT Water Monitoring](https://github.com/jahnavi-1019/iot-water-quality-dashboard)** | Real-time water quality monitoring system integrating hardware sensors with Firebase cloud storage. | `Raspberry Pi` `Python` `Firebase` |
+<div style="margin: 20px 0;">
+
+<div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); border-left: 4px solid #667eea; padding: 25px; border-radius: 8px; margin-bottom: 20px;">
+  <h3 style="margin: 0 0 10px 0; color: #667eea;">Ferox File Explorer</h3>
+  <p style="margin: 10px 0; font-size: 0.95em; color: #555;">A fast, lightweight, and highly efficient file explorer built for Linux. Deep OS integration with optimized memory management and high-performance I/O operations.</p>
+  <p style="margin: 10px 0 15px 0; font-size: 0.9em; color: #999;">🔧 <code>C/C++</code> • <code>Linux</code> • <code>Systems Programming</code></p>
+  <a href="https://github.com/jahnavi-1019/ferox-file-explorer" style="color: #667eea; font-weight: bold; text-decoration: none;">→ Explore Repository</a>
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(245, 87, 108, 0.1) 0%, rgba(240, 147, 251, 0.1) 100%); border-left: 4px solid #f5576c; padding: 25px; border-radius: 8px; margin-bottom: 20px;">
+  <h3 style="margin: 0 0 10px 0; color: #f5576c;">Agentic Speech Enhancement</h3>
+  <p style="margin: 10px 0; font-size: 0.95em; color: #555;">Universal speech enhancement and noise reduction system utilizing deep learning. Neural audio processing with real-time noise suppression and NLP integration.</p>
+  <p style="margin: 10px 0 15px 0; font-size: 0.9em; color: #999;">🔧 <code>Python</code> • <code>TensorFlow</code> • <code>NLP</code> • <code>Audio Processing</code></p>
+  <a href="https://github.com/jahnavi-1019/agentic-speech-enhancement" style="color: #f5576c; font-weight: bold; text-decoration: none;">→ Explore Repository</a>
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(79, 172, 254, 0.1) 0%, rgba(0, 242, 254, 0.1) 100%); border-left: 4px solid #4facfe; padding: 25px; border-radius: 8px;">
+  <h3 style="margin: 0 0 10px 0; color: #4facfe;">IoT Water Monitoring Dashboard</h3>
+  <p style="margin: 10px 0; font-size: 0.95em; color: #555;">Real-time water quality monitoring system integrating hardware sensors with cloud storage. Comprehensive sensor data pipeline with analytics dashboard.</p>
+  <p style="margin: 10px 0 15px 0; font-size: 0.9em; color: #999;">🔧 <code>Raspberry Pi</code> • <code>Python</code> • <code>Firebase</code> • <code>IoT</code></p>
+  <a href="https://github.com/jahnavi-1019/iot-water-quality-dashboard" style="color: #4facfe; font-weight: bold; text-decoration: none;">→ Explore Repository</a>
+</div>
+
+</div>
+</table>
 
 <br>
 <div align="center">
