@@ -24,7 +24,7 @@
 
 Third-year B.Tech student passionate about **AI research**, **systems programming**, and **real-world problem solving**. I build high-assurance software with a focus on clean architecture, deterministic security gates, and performance optimization. When not coding, exploring the cosmos with the Vyom Astrophysics Club.
 
-**Let's connect:** [Email](mailto:jsm55174@gmail.com) • [LinkedIn](https://linkedin.com/in/jahnavi-sai-mutyala) • [GitHub](https://github.com/jahnavi-1019)
+**Let's connect:** [Email](mailto:jsm55174@gmail.com) • [LinkedIn](https://www.linkedin.com/in/jahnavi-sai-mutyala-76b2b2345/) • [GitHub](https://github.com/jahnavi-1019)
 
 ---
 
@@ -33,7 +33,7 @@ Third-year B.Tech student passionate about **AI research**, **systems programmin
 <div style="margin: 25px 0;">
   <p style="text-align: center; font-weight: bold; margin-bottom: 12px; color: #667eea;">→ Languages & Core Foundations</p>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,html,css,matlab,linux" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,scala,c,cpp,html,css,matlab,linux" />
   </div>
 </div>
 
@@ -78,24 +78,24 @@ Third-year B.Tech student passionate about **AI research**, **systems programmin
 <div style="margin: 20px 0;">
 
 <div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); border-left: 4px solid #667eea; padding: 22px; border-radius: 8px; margin-bottom: 15px;">
-  <h3 style="margin: 0 0 8px 0; color: #667eea;">Ferox File Explorer</h3>
-  <p style="margin: 8px 0; font-size: 0.95em; color: #444;">A fast, lightweight, and highly efficient file explorer built for Linux. Deep OS integration with optimized memory management and high-performance I/O operations.</p>
-  <p style="margin: 8px 0 12px 0; font-size: 0.88em; color: #777;">🔧 <code>C/C++</code> • <code>Linux Kernel APIs</code> • <code>Systems Programming</code></p>
-  <a href="https://github.com/jahnavi-1019/ferox-file-explorer" style="color: #667eea; font-weight: bold; text-decoration: none;">→ Explore Repository</a>
+  <h3 style="margin: 0 0 8px 0; color: #667eea;">⚡ GridPulse — Distributed Grid Reliability & Outage Analytics</h3>
+  <p style="margin: 8px 0; font-size: 0.95em; color: #444;">Research-grade Big Data pipeline and interactive platform harmonizing 3.57M+ DOE EAGLE-I and NOAA NWS observations (1.37M contiguous outage episodes) with zero-leakage temporal escalation modeling and regional vulnerability clustering.</p>
+  <p style="margin: 8px 0 12px 0; font-size: 0.88em; color: #777;">🔧 <code>Scala 2.12</code> • <code>Apache Spark 3.5</code> • <code>Python</code> • <code>Scikit-Learn</code> • <code>Streamlit</code></p>
+  <a href="https://github.com/jahnavi-1019/GridPulse" style="color: #667eea; font-weight: bold; text-decoration: none;">→ Explore Repository</a>
 </div>
 
 <div style="background: linear-gradient(135deg, rgba(245, 87, 108, 0.1) 0%, rgba(240, 147, 251, 0.1) 100%); border-left: 4px solid #f5576c; padding: 22px; border-radius: 8px; margin-bottom: 15px;">
-  <h3 style="margin: 0 0 8px 0; color: #f5576c;">Agentic Speech Enhancement</h3>
-  <p style="margin: 8px 0; font-size: 0.95em; color: #444;">Universal speech enhancement and noise reduction system utilizing deep learning. Neural audio processing with real-time noise suppression and NLP integration.</p>
-  <p style="margin: 8px 0 12px 0; font-size: 0.88em; color: #777;">🔧 <code>Python</code> • <code>TensorFlow</code> • <code>PyTorch</code> • <code>Audio DSP</code></p>
-  <a href="https://github.com/jahnavi-1019/agentic-speech-enhancement" style="color: #f5576c; font-weight: bold; text-decoration: none;">→ Explore Repository</a>
+  <h3 style="margin: 0 0 8px 0; color: #f5576c;">🤖 AgentReplay — Deterministic AI Agent Time-Travel Debugger</h3>
+  <p style="margin: 8px 0; font-size: 0.95em; color: #444;">Deterministic record-and-replay debugging engine for autonomous LLM agents featuring cryptographic trajectory hashing, automated API secret sanitization, and execution drift localization across model versions.</p>
+  <p style="margin: 8px 0 12px 0; font-size: 0.88em; color: #777;">🔧 <code>TypeScript</code> • <code>LLM Runtime</code> • <code>SHA-256</code> • <code>Deterministic Evals</code></p>
+  <a href="https://github.com/jahnavi-1019/agent-replay" style="color: #f5576c; font-weight: bold; text-decoration: none;">→ Explore Repository</a>
 </div>
 
 <div style="background: linear-gradient(135deg, rgba(79, 172, 254, 0.1) 0%, rgba(0, 242, 254, 0.1) 100%); border-left: 4px solid #4facfe; padding: 22px; border-radius: 8px;">
-  <h3 style="margin: 0 0 8px 0; color: #4facfe;">IoT Water Monitoring Dashboard</h3>
-  <p style="margin: 8px 0; font-size: 0.95em; color: #444;">Real-time water quality monitoring system integrating hardware sensors with cloud storage. Comprehensive sensor data pipeline with analytics dashboard.</p>
-  <p style="margin: 8px 0 12px 0; font-size: 0.88em; color: #777;">🔧 <code>Raspberry Pi</code> • <code>Python</code> • <code>Firebase</code> • <code>Sensors & IoT</code></p>
-  <a href="https://github.com/jahnavi-1019/iot-water-quality-dashboard" style="color: #4facfe; font-weight: bold; text-decoration: none;">→ Explore Repository</a>
+  <h3 style="margin: 0 0 8px 0; color: #4facfe;">🛡️ MergeMind — Hybrid Deterministic Security Compiler & PR Review Engine</h3>
+  <p style="margin: 8px 0; font-size: 0.95em; color: #444;">Automated pull request governance system that enforces hard deterministic AST security compiler gates and policy invariants prior to evaluating generative AI code review hypotheses.</p>
+  <p style="margin: 8px 0 12px 0; font-size: 0.88em; color: #777;">🔧 <code>TypeScript</code> • <code>AST Static Analysis</code> • <code>CI/CD Security Gates</code> • <code>Compiler Verification</code></p>
+  <a href="https://github.com/jahnavi-1019/merge-mind" style="color: #4facfe; font-weight: bold; text-decoration: none;">→ Explore Repository</a>
 </div>
 
 </div>
